@@ -1,0 +1,60 @@
+Rank,EntryId,EntryName,TimeRemaining,Points,Lineup,,Player,Roster Position,%Drafted,FPTS
+1,4927610909,sharple2,0,175.54,DST Giants  FLEX Kyle Monangai QB Jaxson Dart RB Christian McCaffrey RB Jaylen Warren TE Juwan Johnson WR Ja'Marr Chase WR Ladd McConkey WR Michael Pittman Jr.,,Kyle Monangai,RB,66.67%,25.8
+2,4923462207,davism54,0,156.02,DST Rams  FLEX Keon Coleman QB Josh Allen RB TreVeyon Henderson RB Kyle Monangai TE Brock Bowers WR Rashee Rice WR Brian Thomas Jr. WR DK Metcalf,,Jahmyr Gibbs,RB,50.00%,5.8
+3,4930758862,Nia8888,0,152.16,DST Lions  FLEX Rome Odunze QB Jared Goff RB Kareem Hunt RB Kyle Monangai TE Kyle Pitts Sr. WR Ja'Marr Chase WR Michael Pittman Jr. WR Tee Higgins,,TreVeyon Henderson,RB,41.67%,12.7
+4,4930180862,Raydiddy1,0,145.76,DST Giants  FLEX Tre Tucker QB Jared Goff RB Jahmyr Gibbs RB Kyle Monangai TE Noah Fant WR Puka Nacua WR Drake London WR Ladd McConkey,,Rashee Rice,WR,41.67%,18.6
+5,4923446567,dominodwb,0,143.04,DST Bengals  FLEX Chris Olave QB Michael Penix Jr. RB Kimani Vidal RB TreVeyon Henderson TE Brock Bowers WR Justin Jefferson WR Rashee Rice WR Troy Franklin,,Ladd McConkey,WR,41.67%,9.6
+6,4923482823,mdturner3883,0,133.04,DST Patriots  FLEX Jakobi Meyers QB Jaxson Dart RB Jahmyr Gibbs RB Kyle Monangai TE Dalton Kincaid WR Rashee Rice WR Ladd McConkey WR Wan'Dale Robinson,,Jared Goff,QB,33.33%,19.36
+7,4923452977,cdubb823,0,122.9,DST Rams  FLEX Jahmyr Gibbs QB Patrick Mahomes RB Kimani Vidal RB Kyle Monangai TE Tyler Warren WR Tee Higgins WR Jameson Williams WR Chimere Dike,,Justin Jefferson,WR,25.00%,16.7
+8,4933471719,blade315,0,119.46,DST Texans  FLEX Jahmyr Gibbs QB Jared Goff RB TreVeyon Henderson RB Kyle Monangai TE Evan Engram WR Justin Jefferson WR Nico Collins WR Jameson Williams,,Michael Pittman Jr.,WR,25.00%,23.5
+9,4932637883,emorej15,0,111.92,DST Raiders  FLEX Jahmyr Gibbs QB Jordan Love RB Christian McCaffrey RB TreVeyon Henderson TE Austin Hooper WR Justin Jefferson WR Jameson Williams WR Christian Watson,,Jameson Williams,WR,25.00%,16.6
+10,4924789345,Slam4life,0,106.96,DST Falcons  FLEX Romeo Doubs QB Jared Goff RB Jahmyr Gibbs RB Josh Jacobs TE Jake Tonges WR Ladd McConkey WR Michael Pittman Jr. WR DK Metcalf,,Tyler Warren,TE,25.00%,7.6
+11,4933430932,O-N-E,0,102.1,DST Lions  FLEX Brian Thomas Jr. QB Patrick Mahomes RB TreVeyon Henderson RB Kareem Hunt TE Tyler Warren WR Rashee Rice WR Ladd McConkey WR Jauan Jennings,,Rams,DST,25.00%,9
+12,4933581175,packfan1983,0,97.58,DST Rams  FLEX Tyrone Tracy Jr. QB Daniel Jones RB Jonathan Taylor RB Kyle Monangai TE Tyler Warren WR Rashee Rice WR Jaylin Noel WR Roman Wilson,,Patrick Mahomes,QB,16.67%,11.5
+,,,,,,,Jaxson Dart,QB,16.67%,27.24
+,,,,,,,Christian McCaffrey,RB,16.67%,37.3
+,,,,,,,Kimani Vidal,RB,16.67%,3
+,,,,,,,Kareem Hunt,RB,16.67%,12.5
+,,,,,,,Ja'Marr Chase,WR,16.67%,20.1
+,,,,,,,Brian Thomas Jr.,WR,16.67%,8.5
+,,,,,,,Tee Higgins,WR,16.67%,36.1
+,,,,,,,DK Metcalf,WR,16.67%,2.6
+,,,,,,,Brock Bowers,TE,16.67%,46.3
+,,,,,,,Lions,DST,16.67%,7
+,,,,,,,Giants,DST,16.67%,3
+,,,,,,,Josh Allen,QB,8.33%,28.82
+,,,,,,,Daniel Jones,QB,8.33%,22.08
+,,,,,,,Jordan Love,QB,8.33%,10.02
+,,,,,,,Michael Penix Jr.,QB,8.33%,22.74
+,,,,,,,Jonathan Taylor,RB,8.33%,7.7
+,,,,,,,Josh Jacobs,RB,8.33%,20
+,,,,,,,Jaylen Warren,RB,8.33%,16.9
+,,,,,,,Tyrone Tracy Jr.,FLEX,8.33%,6.7
+,,,,,,,Puka Nacua,WR,8.33%,22.8
+,,,,,,,Nico Collins,WR,8.33%,14.5
+,,,,,,,Rome Odunze,FLEX,8.33%,0
+,,,,,,,Drake London,WR,8.33%,41.8
+,,,,,,,Chris Olave,FLEX,8.33%,8.7
+,,,,,,,Jakobi Meyers,FLEX,8.33%,6.3
+,,,,,,,Romeo Doubs,FLEX,8.33%,16.1
+,,,,,,,Wan'Dale Robinson,WR,8.33%,13.6
+,,,,,,,Troy Franklin,WR,8.33%,8.3
+,,,,,,,Tre Tucker,FLEX,8.33%,6.8
+,,,,,,,Keon Coleman,FLEX,8.33%,3.7
+,,,,,,,Christian Watson,WR,8.33%,7.8
+,,,,,,,Jauan Jennings,WR,8.33%,14.1
+,,,,,,,Jaylin Noel,WR,8.33%,-0.3
+,,,,,,,Chimere Dike,WR,8.33%,7.5
+,,,,,,,Roman Wilson,WR,8.33%,0.4
+,,,,,,,Kyle Pitts Sr.,TE,8.33%,7.8
+,,,,,,,Dalton Kincaid,TE,8.33%,25.1
+,,,,,,,Evan Engram,TE,8.33%,0
+,,,,,,,Noah Fant,TE,8.33%,10.8
+,,,,,,,Juwan Johnson,TE,8.33%,12.1
+,,,,,,,Jake Tonges,TE,8.33%,0
+,,,,,,,Austin Hooper,TE,8.33%,3
+,,,,,,,Patriots,DST,8.33%,1
+,,,,,,,Texans,DST,8.33%,8
+,,,,,,,Bengals,DST,8.33%,6
+,,,,,,,Falcons,DST,8.33%,10
+,,,,,,,Raiders,DST,8.33%,2
